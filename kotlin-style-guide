@@ -5,12 +5,6 @@ We created this style guide to keep the code style consistent in smartData.
 
 Our overarching goals are __conciseness__, __readability__ and __simplicity__.
 
-You should also check out our other style guides:
-
-* [Swift](https://github.com/ravik2015/smartdata-kotlin-style-guide/blob/master/swift-style-guide.md)
-* [Objective-C](https://github.com/Harneetk/smartdata-objective-C-guidelines)
-* [Java](https://github.com/Harneetk/smartdata-java-style-guide/tree/master)
-
 ## Inspiration
 
 This style-guide is somewhat of a mash-up between the existing Kotlin language style guides, and a tutorial-readability focused Swift style-guide. The language guidance is drawn from: 
