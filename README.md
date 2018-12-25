@@ -1,4 +1,4 @@
-# smartdata-code-style-guidelines
+# smartData-code-style-guidelines
 
 We created this style guide to keep the code style consistent in smartData. This contains links for :
 
