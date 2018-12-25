@@ -6,12 +6,6 @@ keep the code in our tutorials consistent.
 
 Our overarching goals are __conciseness__, __readability__ and __simplicity__.
 
-You should also check out 
-*  [Swift](https://github.com/Harneetk/smartdata-swift-codestyle/tree/master)
-*  [Objective-C](https://github.com/Harneetk/smartdata-objective-C-guidelines)
-*  [Kotlin](https://github.com/Harneetk/smartdata-kotlin-style-guide/blob/master/README.md)
-style guides too.
-
 ## Inspiration
 
 This style-guide is somewhat of a mash-up between the existing Java language
